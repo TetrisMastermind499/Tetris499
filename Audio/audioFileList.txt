@@ -1,5 +1,5 @@
 MonsterInteract
-Collect_Coins
+collectCurrency
 loading_complete
 UI_Click
 ConfirmPlacement

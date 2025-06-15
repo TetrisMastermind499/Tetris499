@@ -4,3 +4,4 @@ UI_Click
 ConfirmPlacement
 BuyMon
 SellMon
+Collect_Coins

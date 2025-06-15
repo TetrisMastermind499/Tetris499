@@ -1,7 +1,7 @@
 MonsterInteract
+Collect_Coins
 loading_complete
 UI_Click
 ConfirmPlacement
 BuyMon
 SellMon
-Collect_Coins

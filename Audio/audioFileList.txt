@@ -5,3 +5,4 @@ ConfirmPlacement
 BuyMon
 SellMon
 feed
+collectCurrency

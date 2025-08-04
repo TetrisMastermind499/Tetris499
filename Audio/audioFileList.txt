@@ -8,3 +8,4 @@ feed
 collectCurrency
 bakeClaim
 ovenInteract
+behdumnAwake

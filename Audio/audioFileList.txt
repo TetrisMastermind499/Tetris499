@@ -9,3 +9,4 @@ collectCurrency
 bakeClaim
 ovenInteract
 behdumnAwake
+rock remove

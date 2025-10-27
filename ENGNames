@@ -65,7 +65,7 @@ FrozenStalacLarge:Large Stalagmite
 FrozenStalacSmallObstacle:Small Stalagmite
 FrozenStalacLargeObstacle:Large Stalagmite
 
-SmallScrapPile:Small Scrap Pile
-LargeScrapPile:Large Scrap Pile
-SmallTreeSculpture:Small Tree Sculpture
+WorkshopSmallScrapPile:Small Scrap Pile
+WorkshopLargeScrapPile:Large Scrap Pile
+WorkshopSmallTreeSculpture:Small Tree Sculpture
 WorkshopLargeTreeSculpture:Large Tree Sculpture

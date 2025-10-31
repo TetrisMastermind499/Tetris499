@@ -60,12 +60,12 @@ Dohpuff:Dohpuff
 Golem:Golem
 Father Nature:Father Nature
 
-FrozenStalacSmall:Small Stalagmite
-FrozenStalacLarge:Large Stalagmite
-FrozenStalacSmallObstacle:Small Stalagmite
-FrozenStalacLargeObstacle:Large Stalagmite
+StalacSmall:Small Stalagmite
+StalacLarge:Large Stalagmite
+StalacSmallObstacle:Small Stalagmite
+StalacLargeObstacle:Large Stalagmite
 
-WorkshopSmallScrapPile:Small Scrap Pile
-WorkshopLargeScrapPile:Large Scrap Pile
-WorkshopSmallTreeSculpture:Small Tree Sculpture
-WorkshopLargeTreeSculpture:Large Tree Sculpture
+SmallScrapPile:Small Scrap Pile
+LargeScrapPile:Large Scrap Pile
+SmallTreeSculpture:Small Tree Sculpture
+LargeTreeSculpture:Large Tree Sculpture
